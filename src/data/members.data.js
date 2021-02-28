@@ -48,6 +48,13 @@ const members = [
     description: 'The harder, the more fortunate',
     githubUrl: 'https://github.com/Lvshaomei',
     blogUrl: 'http://www.lvshaomei.club/',
+  },
+  {
+    name: 'Lei',
+    avatar: 'http://www.github.club/lei-shen.png',
+    description: '鱼',
+    githubUrl: 'https://github.com/Leishen-hub',
+    blogUrl: 'https://leishen-hub.github.io/',
   }
 ];
 
